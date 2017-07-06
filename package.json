@@ -1,0 +1,23 @@
+{
+  "name": "@raisedadead/htnc",
+  "version": "1.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Mrugesh Mohapatra",
+  "license": "Unlicense",
+  "description": "Hello World",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raisedadead/htnc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raisedadead/htnc/issues"
+  },
+  "homepage": "https://github.com/raisedadead/htnc#readme"
+}
